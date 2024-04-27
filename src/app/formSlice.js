@@ -8,7 +8,6 @@ const initialState = {
     mobile: "",
     address: ""
 }
-
 export const formSlice = createSlice({
     name: 'form',
     initialState,
